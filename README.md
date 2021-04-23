@@ -1,6 +1,6 @@
 # Samuel Carmo
 
-<a href="https://twitter.com/samucarmo" target="_blank">
+<a href="https://twitter.com/samucarmo">
   <img align="left" alt="samucarmo's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/samuelcarmo">
@@ -18,10 +18,10 @@
 ## About me
 
 - 🔭 I’m currently working at [HE Sistemas](http://heinfo.com.br/).
-- 🎓 Graduation: Agrocomputing
+- 🎓 Graduation: Agrocomputing (Agriculture + I.T)
 - 💻 Programming: Php
 - 💾 Databases: MySQL 
-- 🧑‍🎓Currently studying English
+- 🧑‍🎓Learning English all the time
 
 
 <a href="https://github.com/samcarmo">
