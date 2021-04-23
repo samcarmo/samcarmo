@@ -36,8 +36,8 @@
 <p align="center"> 
   <h2>:mailbox_with_no_mail: Social Network</h2>
 
-[![Twitter: samucarmo](https://img.shields.io/twitter/follow/samucarmo?style=social)](https://twitter.com/samucarmo)
-[![Linkedin: samuelcarmo(https://img.shields.io/badge/-samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelcarmo/)](https://www.linkedin.com/in/samuelcarmo/)
-[![GitHub Samuel Carmo](https://github.com/samcarmo/?label=follow&style=social)](https://github.com/samcarmo/)
+[![Twitter: samucarmo](https://img.shields.io/twitter/follow/samucarmo?style=social)(https://twitter.com/samucarmo)]
+[![Linkedin: samuelcarmo](https://img.shields.io/badge/-samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelcarmo/)(https://www.linkedin.com/in/samuelcarmo/)]
+[![GitHub Samuel Carmo](https://github.com/samcarmo/?label=follow&style=social)(https://github.com/samcarmo/)]
 
 </p>
