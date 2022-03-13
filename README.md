@@ -17,10 +17,10 @@
 --------------------------
 ## About me
 
-- 🔭 I’m currently working at [HE Sistemas](http://heinfo.com.br/).
+- 🔭 I’m currently working at [Grupo Bom Jesus](https://bomjesus.com/).
 - 🎓 Graduation: Agrocomputing (Agriculture + I.T)
 - 💻 Programming: Php
-- 💾 Databases: MySQL 
+- 💾 Databases: MySQL, PostgreSQL 
 - 🧑‍🎓Learning English all the time
 
 
