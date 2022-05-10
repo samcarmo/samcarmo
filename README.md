@@ -43,12 +43,12 @@
 
 </p>
 
-<p align="center"> 
+<!--<p align="center"> 
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/samucarmo/count.svg" />
 </p>
 
- <!--<p align="center">
+ <p align="center">
   <b>:pushpin: Languages and Tools: </b>
   <br />
 
