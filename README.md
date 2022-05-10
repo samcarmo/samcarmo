@@ -19,8 +19,8 @@
 
 - 🔭 I’m currently working at [Grupo Bom Jesus](https://bomjesus.com/).
 - 🎓 Graduation: Agrocomputing (Agriculture + I.T)
-- 💻 Programming: Php
-- 💾 Databases: MySQL, PostgreSQL 
+- 💻 Programming: PHP, C, Python, ABAP
+- 💾 Databases: MySQL, PostgreSQL, HANA
 - 🧑‍🎓Learning English all the time
 
 
