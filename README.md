@@ -48,7 +48,7 @@
   <img src="https://profile-counter.glitch.me/samucarmo/count.svg" />
 </p>
 
- <p align="center">
+ <!--<p align="center">
   <b>:pushpin: Languages and Tools: </b>
   <br />
 
@@ -105,4 +105,4 @@
   <img alt="Vs Code" width="35px" src="https://raw.githubusercontent.com/samucarmo/samucarmo/master/icons/vs-code.svg"/>
   </span>
 
-  <br />
+  <br /> -->
