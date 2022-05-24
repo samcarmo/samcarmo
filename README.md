@@ -50,18 +50,19 @@
 
  <p align="center">
   <b>:pushpin: Languages and Tools: </b>
-  <br />
+  <br />-->
 
  ### Languages and Tools:
-  <span title="Android">
+  <!--<span title="Android">
   <img alt="Android" width="40px" src="https://raw.githubusercontent.com/samucarmo/samucarmo/master/icons/android.svg"/>
-  </span>
+  </span>-->
 
   <span title="Php">
   <img alt="Php" width="35px" src="https://raw.githubusercontent.com/samucarmo/samucarmo/master/icons/php.svg"/>
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   </span>
 
- <span title="Java">
+ <!--<span title="Java">
   <img alt="Java" width="35px" src="https://raw.githubusercontent.com/samucarmo/samucarmo/master/icons/java.svg"/>
   </span>
 
