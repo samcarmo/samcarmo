@@ -18,7 +18,7 @@
 ## About me
 
 - 🎓 Graduation: Agrocomputing (Agriculture + I.T)
-- 💻 Programming: PHP, C++, Python, ABAP
+- 💻 Programming: PHP, Laravel, Javascript, ABAP
 - 💾 Databases: MySQL, PostgreSQL, HANA
 - 🧑‍🎓Learning English all the time
 
