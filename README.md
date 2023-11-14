@@ -1,10 +1,10 @@
 # Samuel Carmo
 
-<a href="https://twitter.com/samucarmo">
+<!-- <a href="https://twitter.com/samucarmo">
   <img align="left" alt="samucarmo's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+</a> -->
 <a href="https://linkedin.com/in/samuelcarmo">
-  <img align="left" alt="samcarmo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="samcarmo's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/samcarmo">
   <img align="left" alt="samcarmo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -17,7 +17,8 @@
 --------------------------
 ## About me
 
-- 🎓 Graduation: Agrocomputing (Agriculture + I.T)
+- 🎓 Graduation: Agricomputing (Agriculture + I.T)
+- 🎓 Software Engineer
 - 💻 Programming: PHP, Laravel, Javascript, ABAP
 - 💾 Databases: MySQL, PostgreSQL, HANA
 - 🧑‍🎓Learning English all the time
