@@ -1,20 +1,5 @@
 # Samuel Carmo
 
-<!-- <a href="https://twitter.com/samucarmo">
-  <img align="left" alt="samucarmo's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> -->
-<a href="https://linkedin.com/in/samuelcarmo">
-  <img align="left" alt="samcarmo's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/samcarmo">
-  <img align="left" alt="samcarmo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<br/>
-<br/>
-
-
---------------------------
 ## About me
 
 - 🎓 Graduation: Agricomputing (Agriculture + I.T)
@@ -37,13 +22,12 @@
 <p align="center"> 
   <h2>:mailbox_with_no_mail: Social Network</h2>
 
-<!-- [![Twitter: samucarmo](https://img.shields.io/twitter/follow/samucarmo?style=social)](https://twitter.com/samucarmo) -->
 [![Linkedin: samuelcarmo](https://img.shields.io/badge/-samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelcarmo/)](https://www.linkedin.com/in/samuelcarmo/)
 [![GitHub Samuel Carmo](https://img.shields.io/github/followers/samcarmo?label=follow&style=social)](https://github.com/samcarmo)
 
 </p>
-
-<!--<p align="center"> 
+<!--
+<p align="center"> 
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/samucarmo/count.svg" />
 </p>
@@ -105,4 +89,5 @@
   <img alt="Vs Code" width="35px" src="https://raw.githubusercontent.com/samucarmo/samucarmo/master/icons/vs-code.svg"/>
   </span>
 
-  <br /> -->
+  <br />
+-->
