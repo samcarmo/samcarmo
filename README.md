@@ -60,7 +60,7 @@
   </span>
 
   <span title="Mysql">
-  <img alt="Mysql" width="35px" src="https://raw.githubusercontent.com/samucarmo/samucarmo/master/icons/mysql.svg"/>
+  <img alt="Mysql" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   </span>
 
   <span title="Vs Code">
