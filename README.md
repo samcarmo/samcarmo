@@ -18,24 +18,24 @@
 
 ***
 
+## :mailbox_with_no_mail: Social Network
+
 <p align="center">
-  <h2>:mailbox_with_no_mail: Social Network</h2>
 
 [![Linkedin: samuelcarmo](https://img.shields.io/badge/-samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelcarmo/)](https://www.linkedin.com/in/samuelcarmo/)
 [![GitHub Samuel Carmo](https://img.shields.io/github/followers/samcarmo?label=follow&style=social)](https://github.com/samcarmo)
 
 </p>
 
+### Visitor count
+
 <p align="center">
-  <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/samucarmo/count.svg" />
 </p>
 
- <p align="center">
-  <b>:pushpin: Languages and Tools: </b>
-  <br />
+### :pushpin: Languages and Tools
 
-### Languages and Tools
+ <p align="center">
 
   <span title="PHP">
   <img alt="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
@@ -82,6 +82,5 @@
   </span>
 
   <br />
-
-
-icons: https://github.com/devicons/devicon
+icons: <https://github.com/devicons/devicon>
+</p>
