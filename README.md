@@ -27,6 +27,7 @@
 
 </p>
 <div align="center">
+
 ### Visitor count
 
 <p>
@@ -82,6 +83,8 @@
   </span>
 
   <br />
+
 [icons:](https://github.com/devicons/devicon)
+
 </p>
 </div>
