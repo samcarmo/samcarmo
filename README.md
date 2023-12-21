@@ -66,7 +66,7 @@
   </span>
 
   <span title="MySQL">
-  <img alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+  <img alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   </span>
 
   <span title="PostgreSQL">
@@ -82,3 +82,6 @@
   </span>
 
   <br />
+
+
+icons: https://github.com/devicons/devicon
