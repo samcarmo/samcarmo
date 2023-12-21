@@ -1,4 +1,4 @@
-# Samuel Carmo
+# [Samuel Carmo](https://samuka.dev.br)
 
 ## About me
 
@@ -26,16 +26,16 @@
 [![GitHub Samuel Carmo](https://img.shields.io/github/followers/samcarmo?label=follow&style=social)](https://github.com/samcarmo)
 
 </p>
-
+<div align="center">
 ### Visitor count
 
-<p align="center">
+<p>
   <img src="https://profile-counter.glitch.me/samucarmo/count.svg" />
 </p>
 
 ### :pushpin: Languages and Tools
 
- <p align="center">
+ <p>
 
   <span title="PHP">
   <img alt="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
@@ -82,5 +82,6 @@
   </span>
 
   <br />
-icons: <https://github.com/devicons/devicon>
+[icons:](https://github.com/devicons/devicon)
 </p>
+</div>
