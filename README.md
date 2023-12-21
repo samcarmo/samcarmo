@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://github.com/samcarmo?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samcarmo&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samcarmo&layout=donut" />
 </a>
 
 ***
