@@ -84,7 +84,7 @@
 
   <br />
 
-[icons:](https://github.com/devicons/devicon)
+icons: [github.com/devicons/devicon](https://github.com/devicons/devicon)
 
 </p>
 </div>
