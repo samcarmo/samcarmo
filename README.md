@@ -38,33 +38,47 @@
 ### Languages and Tools
 
   <span title="PHP">
-  <img alt="Php" width="35px" src="icons/php.svg"/>
-  <!-- <img alt="Php" width="35px" src="https://raw.githubusercontent.com/samucarmo/samucarmo/master/icons/php.svg"/> -->
+  <img alt="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  </span>
+
+  <span title="Laravel">
+  <img alt="Laravel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
   </span>
 
   <span title="JavaScript">
-  <img alt="Javascript" width="35px" src="icons/javascript.svg"/>
-  <!-- <img alt="Javascript" width="35px" src="https://raw.githubusercontent.com/samucarmo/samucarmo/master/icons/javascript.svg"/> -->
+  <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   </span>
 
-  <span title="HTML">
-  <img alt="HTML" width="35px" src="https://raw.githubusercontent.com/samucarmo/samucarmo/master/icons/html.svg"/>
+  <span title="Bootstrap">
+  <img alt="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   </span>
 
-  <span title="CSS">
-  <img alt="CSS" width="35px" src="https://raw.githubusercontent.com/samucarmo/samucarmo/master/icons/css.svg"/>
+  <span title="CSS3">
+  <img alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  </span>
+
+  <span title="HTML5">
+  <img alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  </span>
+
+  <span title="Arduino">
+  <img alt="Arduino" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+  </span>
+
+  <span title="MySQL">
+  <img alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+  </span>
+
+  <span title="PostgreSQL">
+  <img alt="PostgreSQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>
+  </span>
+
+  <span title="VS Code">
+  <img alt="VS Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </span>
   
-  <span title="Git">
-  <img alt="Git" width="35px" src="https://raw.githubusercontent.com/samucarmo/samucarmo/master/icons/git.svg"/>
-  </span>
-
-  <span title="Mysql">
-  <img alt="Mysql" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  </span>
-
-  <span title="Vs Code">
-  <img alt="Vs Code" width="35px" src="https://raw.githubusercontent.com/samucarmo/samucarmo/master/icons/vs-code.svg"/>
+  <span title="GitHub">
+  <img alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   </span>
 
   <br />
