@@ -4,8 +4,9 @@
 
 - 🎓 Graduation: Agricomputing (Agriculture + I.T)
 - 🎓 Software Engineer
-- 💻 Programming: PHP, Laravel, Javascript, ABAP
-- 💾 Databases: MySQL, PostgreSQL, HANA
+- 🎓 IoT
+- 💻 Programming: PHP, Laravel, Javascript, ABAP, Python
+- 💾 Databases: MySQL, PostgreSQL, HANA, Oracle
 - 🧑‍🎓Learning English all the time
 
 <a href="https://github.com/samcarmo?tab=repositories">
