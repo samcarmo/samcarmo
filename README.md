@@ -44,7 +44,8 @@
   </span>
 
   <span title="Laravel">
-  <img alt="Laravel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
+  
+  <img alt="Laravel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg"/>
   </span>
 
   <span title="JavaScript">
