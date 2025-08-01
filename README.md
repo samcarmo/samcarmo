@@ -29,12 +29,6 @@
 </p>
 <div align="center">
 
-### Visitor count
-
-<p>
-  <img src="https://profile-counter.glitch.me/samucarmo/count.svg" />
-</p>
-
 ### :pushpin: Languages and Tools
 
  <p>
