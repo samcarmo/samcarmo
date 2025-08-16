@@ -8,7 +8,6 @@
 - 💻 Programming: PHP, Laravel, Javascript, ABAP, Python
 - 💾 Databases: MySQL, PostgreSQL, HANA, Oracle
 - Key User | SAP Business One
-- 🧑‍🎓Learning English all the time
 
 <a href="https://github.com/samcarmo?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samcarmo&layout=donut&theme=chartreuse-dark" />
