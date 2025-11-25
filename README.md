@@ -9,14 +9,6 @@
 - 💾 Databases: MySQL, PostgreSQL, HANA, Oracle
 - Key User | SAP Business One
 
-<a href="https://github.com/samcarmo?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samcarmo&layout=donut&theme=chartreuse-dark" />
-</a>
-
-<a href="https://github.com/samcarmo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samcarmo&show_icons=true&count_private=true&theme=chartreuse-dark"/>
-</a>
-
 ***
 
 ## :mailbox_with_no_mail: Social Network
